@@ -1,0 +1,8 @@
+h1,p,span{
+    background-color: brown;text-align: center;
+    font-style: italic; font-size: larger; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    background-color: maroon;text-align: center;
+    font-style: italic;
+}
